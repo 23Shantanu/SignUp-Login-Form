@@ -1,3 +1,5 @@
+![Form Preview](Screenshot 2024-12-09 163535.png)
+
 To run the project clone down this repository. You will need node and npm installed on your machine.
 Installation:
 npm install
