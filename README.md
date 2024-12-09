@@ -1,4 +1,4 @@
-To run the project clone down this repository. You will need node and npm installed globally on your machine.
+To run the project clone down this repository. You will need node and npm installed on your machine.
 Installation:
 npm install
 
